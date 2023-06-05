@@ -1,0 +1,56 @@
+.mother{
+    background: rgb(131,58,180);
+    background: linear-gradient(207deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    width: 700px;
+    height: 700px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box1{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    background: rgb(131,58,180);
+    background: linear-gradient(207deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    
+    width: 500px;
+    height: 500px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box3{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box4{
+    background: rgb(131,58,180);
+    background: linear-gradient(207deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+.box5{
+    background-color: white;
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    position: relative;
+    bottom: 100px;
+    left: 260px;
+}
